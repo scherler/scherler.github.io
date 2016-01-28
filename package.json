@@ -1,0 +1,22 @@
+{
+  "name": "scherler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "less": "lessc stylesheets/stylesheet.less > stylesheets/stylesheet.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scherler/scherler.github.io"
+  },
+  "author": "scherler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scherler/scherler.github.io/issues"
+  },
+  "homepage": "https://github.com/scherler/scherler.github.io#readme",
+  "devDependencies": {
+    "less": "^2.5.1"
+  }
+}
